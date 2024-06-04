@@ -64,4 +64,6 @@ body {
     font-size: 18px;
     color: rgba(0, 0, 0, 0.8);
   }
-  a:hover{cursor: pointer;}
+footer a{ text-decoration: none;}
+footer a:hover{cursor: pointer;
+text-decoration: underline;}
